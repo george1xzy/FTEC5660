@@ -1,9 +1,0 @@
-# ChatGPT-WM project dependencies (migrated to Gemini)
-openai>=1.0.0
-numpy
-pandas
-matplotlib
-seaborn
-scipy
-tabulate
-requests
